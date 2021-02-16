@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravneetsingh13 working as Software Developer
+- 👋 Hi, I’m Ravneet Singh working as Software Developer
 - 👀 I’m interested in Data Science & Machine Learning
 - 🌱 I’m currently learning Python Analytics libraries like Pandas & Matplotlib
 - 💞️ I’m looking to collaborate on Backend Projects
